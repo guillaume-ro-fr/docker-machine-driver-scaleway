@@ -143,8 +143,9 @@ Using go
 
 ## Changelog
 
-### master (unreleased)
+### [v1.1.0](https://github.com/moul/anonuuid/releases/tag/v1.1.0) (2018-04-02)
 
+* Switch from `Godep` to `Glide`
 * Add mutex to protect the cache field ([@QuentinPerez](https://github.com/QuentinPerez))
 * Switch from `Party` to `Godep`
 * Support of `--suffix=xxx`, `--keep-beginning` and `--keep-end` options ([#4](https://github.com/moul/anonuuid/issues/4))
